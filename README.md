@@ -1,4 +1,4 @@
-# Distributed Random Reshuffling over Networks
+# Distributed Random Reshuffling over Networks （Coming soon）
 This repo includes codes of the paper `Distributed Random Reshuffling over Networks`. We use some code from: https://github.com/qureshi-mi/S-ADDOPT.
 
 # Note 
